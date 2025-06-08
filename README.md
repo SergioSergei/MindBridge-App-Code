@@ -1,8 +1,8 @@
 Hey!
 
-This is Sergeis and Maxs submission for the DreamHacks Hackathon. We hope you like it!
+This is Sergeis and Maxs submission for the KTHacks Hackathon. We hope you like it!
 
-IF you want to run, follow these steps:
+If you want to run, follow these steps:
 
 1. Clone the repository
 2. Run `npm install` in the root directory to install dependencies.
